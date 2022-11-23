@@ -46,7 +46,7 @@ def obtenerMedia(lista):
     for i in range(len(lista)):
         contador+=lista[i]
         media=contador/10
-    return media;
+    return media; 
 
 def sustituirValor(lista_para_sustituir, elemento_buscar, elemento_sustituto):
     print(lista)
